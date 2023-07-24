@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MediaLinker/static/css/main.830cbe63.css",
+    "main.js": "/MediaLinker/static/js/main.e83a4c6b.js",
+    "static/media/futureHomePicture.png": "/MediaLinker/static/media/futureHomePicture.b5a17d52f6e8d54fbf12.png",
+    "static/media/StepPresentation.png": "/MediaLinker/static/media/StepPresentation.afaf9c2995d585927680.png",
+    "static/media/footer.png": "/MediaLinker/static/media/footer.5faf95f599830bf0fda1.png",
+    "static/media/temoignage.png": "/MediaLinker/static/media/temoignage.d7176e6ef5be02e95fc0.png",
+    "static/media/MEDIALINKER.png": "/MediaLinker/static/media/MEDIALINKER.707a430608f36de06b30.png",
+    "static/media/Ressources.png": "/MediaLinker/static/media/Ressources.060eaca8a4bf31e87a90.png",
+    "index.html": "/MediaLinker/index.html",
+    "main.830cbe63.css.map": "/MediaLinker/static/css/main.830cbe63.css.map",
+    "main.e83a4c6b.js.map": "/MediaLinker/static/js/main.e83a4c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.830cbe63.css",
+    "static/js/main.e83a4c6b.js"
+  ]
+}
